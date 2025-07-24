@@ -1,6 +1,6 @@
 # 👋 Oi! Eu sou a Larissa Cassemiro
 
-Product Designer com visão estratégica focada em transformar ideias em experiências reais.
+Product Designer e Estudante de Design Digital pela Universidade Federal do Ceará com visão estratégica focada em transformar ideias em experiências reais.
 
 Atuo na interseção entre design minimalista, usabilidade e tecnologia, utilizando o Figma como ferramenta de prototipação para construir interfaces modernas, acessíveis e funcionais.
 
